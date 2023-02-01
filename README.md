@@ -1,4 +1,5 @@
 ## Distillation from Heterogeneous Models for Top-K Recommendation
+[![DOI](https://zenodo.org/badge/596085396.svg)](https://zenodo.org/badge/latestdoi/596085396)
 
 This repository provides the source code of "Distillation from Heterogeneous Models for Top-K Recommendation" accepted in TheWebConf (WWW2023) as a research paper.
 
