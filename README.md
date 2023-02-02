@@ -39,5 +39,5 @@ We found that the sampling processes for top-ranked unobserved items are unneces
 - Pytorch version: 1.10.1
 #### 3-c. Else.
 - The target teacher models and their trajectories need to be located in Teachers directory.
-- Due to its large size, we will provide pretrained teacher trajectories through another file-sharing system.
+- Due to its large size, we provide pretrained teacher trajectories through another file-sharing system: https://drive.google.com/file/d/1IYNJBbhzi2ETcKzruYOKFsJ__3RwyPJM/view?usp=share_link
 
